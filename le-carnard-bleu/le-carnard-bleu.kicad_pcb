@@ -10184,7 +10184,7 @@
 		)
 	)
 	(gr_text "github.com/DanNixon"
-		(at 113.03 100.076 -90)
+		(at 112.522 100.076 -90)
 		(layer "B.SilkS" knockout)
 		(uuid "e7184ee2-828b-4891-b387-5484cd26205d")
 		(effects
@@ -10232,7 +10232,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "+"
+	(gr_text "-"
 		(at 109.0168 108.966 270)
 		(layer "F.SilkS" knockout)
 		(uuid "4c20ab6b-c7d8-49ad-974e-d9d107814952")
@@ -10267,7 +10267,7 @@
 			)
 		)
 	)
-	(gr_text "-"
+	(gr_text "+"
 		(at 108.966 104.902 270)
 		(layer "F.SilkS" knockout)
 		(uuid "717a86a6-1ce4-4ccc-9126-622e5070e333")

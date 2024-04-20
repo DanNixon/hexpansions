@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*
-G04 #@! TF.CreationDate,2024-04-19T19:32:53+01:00*
+G04 #@! TF.CreationDate,2024-04-20T17:20:36+01:00*
 G04 #@! TF.ProjectId,le-carnard-bleu,6c652d63-6172-46e6-9172-642d626c6575,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.1) date 2024-04-19 19:32:53*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2024-04-20 17:20:36*
 %MOMM*%
 %LPD*%
 G01*
