@@ -296,394 +296,414 @@
 		)
 	)
 	(junction
-		(at 165.1 121.92)
+		(at 127 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0362fa1d-ae07-4b5e-bc16-86d2e77f442e")
-	)
-	(junction
-		(at 101.6 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07be8eba-0156-4990-96a2-65e6781652f2")
-	)
-	(junction
-		(at 152.4 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a4950d0-e9e3-4119-9800-3744e314a9c4")
-	)
-	(junction
-		(at 127 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d49492f-e4cc-4fe6-9eea-3169ff50c237")
-	)
-	(junction
-		(at 76.2 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f466f30-d5d0-415f-8247-f090558bdba1")
-	)
-	(junction
-		(at 165.1 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fea4815-68a6-4f03-9a4a-8e0ee432ab6f")
-	)
-	(junction
-		(at 114.3 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "16a55e51-c22e-4b01-8e7f-6630cba531c4")
-	)
-	(junction
-		(at 114.3 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22b1e34c-a6ea-44ab-994f-8a4a82c52680")
-	)
-	(junction
-		(at 101.6 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2584dbb3-8717-422d-80c5-e7302fba4ccf")
-	)
-	(junction
-		(at 63.5 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2800ca17-b250-4da9-9cd6-c3c1f448d95e")
+		(uuid "00d4bf17-c69c-4089-b767-885d01ef6d80")
 	)
 	(junction
 		(at 38.1 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "285bb722-2a84-4e41-b642-bbfa4e4f6c19")
-	)
-	(junction
-		(at 76.2 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "29386028-c62c-48c2-bb16-8c034ff47b15")
-	)
-	(junction
-		(at 88.9 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d2528d8-947a-4c62-9552-e2ddaba7599f")
-	)
-	(junction
-		(at 50.8 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2fbc9410-55f5-4959-93e1-f747352f8f88")
-	)
-	(junction
-		(at 50.8 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a743b3d-7f08-443d-8977-2dae358dd4d1")
-	)
-	(junction
-		(at 63.5 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bc3909d-f050-4127-b6b7-2fe1a6deb77a")
-	)
-	(junction
-		(at 114.3 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f648bad-0e6b-47ae-a4ef-4d8a87ae8b51")
-	)
-	(junction
-		(at 63.5 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42a2321b-8a00-4ae7-9aa2-0a9a51fe77dd")
-	)
-	(junction
-		(at 63.5 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42e059a1-71da-4665-97ef-7e280da0a5ac")
-	)
-	(junction
-		(at 139.7 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "444f475d-5fbf-4fcb-b73d-9e869319b64d")
-	)
-	(junction
-		(at 114.3 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4486f944-3372-46ad-a956-eadd28f40ae2")
-	)
-	(junction
-		(at 88.9 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "644a72d8-031d-4f9a-97f5-86a461b19916")
-	)
-	(junction
-		(at 76.2 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "665b6cb5-834a-42ea-90b4-24cc658222bf")
-	)
-	(junction
-		(at 165.1 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6874cec8-9406-4099-a760-4cde80c82d4c")
-	)
-	(junction
-		(at 38.1 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "69df5ef0-dd9d-45d0-9330-85006f23f39f")
-	)
-	(junction
-		(at 38.1 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e85f7c5-056f-42db-bf6b-b185219a37b6")
-	)
-	(junction
-		(at 76.2 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f518329-d2ce-4ac9-a121-6285b8f20c03")
-	)
-	(junction
-		(at 152.4 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71c7e0eb-0ada-4bab-a9f8-96f4fbf01461")
-	)
-	(junction
-		(at 76.2 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "775289ea-e159-4e76-9939-197c5f3dc992")
-	)
-	(junction
-		(at 139.7 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e492036-6eac-4869-a1fa-e4d8c9ca38f5")
-	)
-	(junction
-		(at 50.8 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85c2a87c-8720-487a-ab69-e62f9af51f54")
-	)
-	(junction
-		(at 88.9 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "890d96d8-328f-4074-b7a7-e366e22fe3a4")
-	)
-	(junction
-		(at 38.1 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99abf37b-4383-40df-b5a3-74dbd3a72767")
-	)
-	(junction
-		(at 101.6 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b81ff06-b157-45d6-8c23-f0408602c13b")
-	)
-	(junction
-		(at 139.7 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9df6d172-9fc4-4a07-a064-b200e4e03732")
-	)
-	(junction
-		(at 114.3 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9e41d524-dc30-41eb-9936-d67036a848dd")
-	)
-	(junction
-		(at 50.8 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a03a7834-651a-4b4c-8a0c-2bce9eac1a69")
-	)
-	(junction
-		(at 127 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac0698b1-97bc-4b5a-9eb2-65514d0c929b")
-	)
-	(junction
-		(at 50.8 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b14c9083-a14e-4d4f-9de8-7b439e1faf68")
-	)
-	(junction
-		(at 127 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b278588e-ecf3-46e6-8b2a-395f7e6cc968")
-	)
-	(junction
-		(at 88.9 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b53c3932-6d5f-4f7e-b6e5-1220dc456a6e")
-	)
-	(junction
-		(at 152.4 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b68fdd32-db58-41b7-8ecb-cc5fef43bac2")
-	)
-	(junction
-		(at 152.4 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8cef667-f865-4e59-aa3a-1f6d7dd5bb53")
-	)
-	(junction
-		(at 76.2 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "baa21c5f-5561-43da-bbc5-ac8a8e63b708")
+		(uuid "061edcf4-2d1e-4b14-9dbf-df302b33007a")
 	)
 	(junction
 		(at 88.9 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bf9bd21d-f99b-4d6a-8b7c-260393e867dc")
+		(uuid "0ca80c55-9419-40da-8d04-3e0352ed01e3")
 	)
 	(junction
-		(at 139.7 121.92)
+		(at 50.8 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c10b4876-482d-421c-97ea-12bac9adcf7b")
+		(uuid "0df2bfa0-7a6e-40de-b7f9-68377d266281")
 	)
 	(junction
-		(at 152.4 45.72)
+		(at 88.9 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c2555371-0432-41ef-aca0-c82ad220679e")
+		(uuid "180d507b-a462-469f-9494-aca670f13f20")
 	)
 	(junction
-		(at 101.6 121.92)
+		(at 50.8 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cb7bf3ab-746f-4efc-b53f-34ce639d3e87")
-	)
-	(junction
-		(at 63.5 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d764350e-d33e-4e59-9b90-694639f6b744")
+		(uuid "1bcd401c-40a4-4d37-85d3-b21ef21e7da8")
 	)
 	(junction
 		(at 38.1 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d906fffd-0b42-4c29-af12-eebb1c1a2b78")
+		(uuid "2b340cba-5863-4891-a87a-513c3ecab273")
 	)
 	(junction
-		(at 88.9 71.12)
+		(at 50.8 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dad8d85c-7c99-44bb-944f-d7d326a5d27a")
+		(uuid "2d52aa25-db5f-40ab-988a-250fc636689a")
 	)
 	(junction
-		(at 139.7 96.52)
+		(at 63.5 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dc42fbc2-c005-402b-930c-f7ee16470736")
+		(uuid "2f709e06-e76c-4eeb-aa9d-9473020210f5")
 	)
 	(junction
-		(at 127 147.32)
+		(at 76.2 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e1d85b62-d4cd-458e-8435-9dc10f41b1a7")
+		(uuid "3027865a-cd42-419d-93e1-92ca5c9b59bc")
 	)
 	(junction
-		(at 63.5 172.72)
+		(at 76.2 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e2513889-c596-468e-a284-971ed5a5a3d8")
+		(uuid "30fb2221-0f0f-415e-bdcb-848a4a7366b0")
 	)
 	(junction
-		(at 101.6 45.72)
+		(at 152.4 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e8c2fff3-3312-4d30-9bdc-a3f3e9603730")
+		(uuid "313e3008-36d7-4f57-8319-c0366c9e919a")
 	)
 	(junction
-		(at 127 121.92)
+		(at 114.3 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "eb5a1a4e-c319-4e83-829a-71a48df73661")
-	)
-	(junction
-		(at 165.1 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f1b43400-c1a5-40bf-ae7b-932fda733097")
+		(uuid "31795d0d-6b82-4fb0-8cc3-6563c321a2ea")
 	)
 	(junction
 		(at 38.1 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f1dbf3b0-5ffc-4acd-81f3-a885be1eb287")
+		(uuid "3e8752eb-3d14-4ad6-81ce-a3981d192ebc")
 	)
 	(junction
-		(at 50.8 45.72)
+		(at 50.8 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f3140bff-4e9e-4d70-b85d-4729e6a2fdae")
+		(uuid "44eb31c3-0ac9-40b4-bc1e-6eac923e32ac")
+	)
+	(junction
+		(at 88.9 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45921aae-a465-4243-9a66-b31213e457dc")
+	)
+	(junction
+		(at 127 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46752b12-c1d8-41c9-b7b9-9627a2a4cc1a")
+	)
+	(junction
+		(at 101.6 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d958bbe-54e2-4c24-8761-4ff1e30ef2eb")
+	)
+	(junction
+		(at 38.1 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e978e01-dbce-4a76-a36e-9f6f6f9cbaf0")
+	)
+	(junction
+		(at 63.5 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53620081-c697-486f-afcc-60268e3ed2d8")
+	)
+	(junction
+		(at 139.7 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55364f3c-4ddc-40e6-b53a-07eb7aeb2a99")
+	)
+	(junction
+		(at 63.5 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b4dca5b-d5aa-4667-842d-1c54e8bdc2f6")
+	)
+	(junction
+		(at 63.5 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ab8f443-215d-4e3d-9566-92a6b518ca88")
+	)
+	(junction
+		(at 38.1 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7046f4f7-cb04-4615-b4d0-34b124fbd884")
+	)
+	(junction
+		(at 88.9 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74a13bc3-ad74-414e-b59e-5e36d9d30a1f")
+	)
+	(junction
+		(at 76.2 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79cf713c-ac30-4830-b307-0f8691852cfc")
+	)
+	(junction
+		(at 152.4 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8313cf91-fbba-490e-bc6f-e27ce43023e8")
+	)
+	(junction
+		(at 127 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83b1f8c8-1ad9-462d-96f0-a7ede3724d19")
+	)
+	(junction
+		(at 101.6 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89afcb93-a769-4680-8d45-f4d164dc7f0c")
+	)
+	(junction
+		(at 101.6 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b3541d7-b0de-41af-b50c-9737a4ba752a")
+	)
+	(junction
+		(at 63.5 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c4ab926-bc43-45fe-896a-75d7de34d8a9")
+	)
+	(junction
+		(at 165.1 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "935f1ec6-f508-4dd9-a2d2-5b1b49bff433")
+	)
+	(junction
+		(at 114.3 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "952b4f77-4027-4bba-9420-ecc0a092b5e1")
 	)
 	(junction
 		(at 165.1 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fe5f3e3a-0ae8-4b3a-b44f-fbb87d6c7b4e")
+		(uuid "963d2bfd-9874-4d9a-9436-8378d1e16d92")
+	)
+	(junction
+		(at 165.1 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "996e8ba9-e9bc-4079-bb4d-55a0158523c1")
+	)
+	(junction
+		(at 101.6 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a147b569-6e75-417b-b3c7-faa332e81c42")
+	)
+	(junction
+		(at 139.7 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5767d64-82f1-4cc3-99c8-06e57414d792")
+	)
+	(junction
+		(at 114.3 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2f32eca-9ff2-4e3d-874d-9991683ded3f")
+	)
+	(junction
+		(at 152.4 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5178a47-03f7-4931-b65d-0592f8e5e1a2")
+	)
+	(junction
+		(at 76.2 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b69b171f-05c1-4eff-8e25-6c81839fa217")
+	)
+	(junction
+		(at 50.8 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6c90210-963e-4086-ae4e-03dc94a28a7d")
+	)
+	(junction
+		(at 88.9 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b86b1ded-f67c-46fb-9eec-140f8c6990c1")
+	)
+	(junction
+		(at 152.4 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb7250ec-4e2c-4721-b254-9991a0a4739d")
+	)
+	(junction
+		(at 38.1 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c316d677-3ddf-4f9c-8995-c3aa7502f169")
+	)
+	(junction
+		(at 76.2 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5388acf-5846-4b1f-8331-c370cf43bdc1")
+	)
+	(junction
+		(at 165.1 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c62a693a-efd6-4120-a014-85d9e25fbbb1")
+	)
+	(junction
+		(at 63.5 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cfede4cd-af4f-40ca-a08b-194ff63ba30e")
+	)
+	(junction
+		(at 139.7 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d69f12d4-8be9-4600-a433-6d652f979e99")
+	)
+	(junction
+		(at 114.3 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d83f0db3-c530-4652-8ef3-4cf8f42cecea")
+	)
+	(junction
+		(at 114.3 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9623f7c-c0d8-4f00-9625-d2ad2b8c3be6")
+	)
+	(junction
+		(at 88.9 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc50ee51-63d9-4bca-b2e2-fdb080635654")
+	)
+	(junction
+		(at 139.7 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2086e94-5264-4114-8efc-43612b63ab0a")
+	)
+	(junction
+		(at 127 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e35a59cb-1304-4f57-b238-386698624fc1")
+	)
+	(junction
+		(at 152.4 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8dab6ba-0368-448a-823e-a0381a0187e5")
+	)
+	(junction
+		(at 101.6 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e963f7e3-79f6-4a61-bad7-a22d7a19b5cb")
+	)
+	(junction
+		(at 165.1 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9f6ec79-746f-428a-a0ff-7ac706c6e52f")
+	)
+	(junction
+		(at 127 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea322545-6821-4215-b1f2-e7e403aa621a")
+	)
+	(junction
+		(at 50.8 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5ba06f4-80b9-4f1d-b384-d84d2d8979b0")
+	)
+	(junction
+		(at 76.2 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdbe20ff-616d-455e-a448-56908d56d1bd")
+	)
+	(junction
+		(at 139.7 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ffb7caef-761c-4359-8d26-225ca1393852")
 	)
 	(wire
 		(pts
-			(xy 38.1 45.72) (xy 50.8 45.72)
+			(xy 50.8 121.92) (xy 63.5 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0872653e-840c-49df-b34b-098a718daf81")
+		(uuid "01bd4dd0-2ab9-49f0-8527-9d56cea50a3d")
 	)
 	(wire
 		(pts
-			(xy 88.9 71.12) (xy 101.6 71.12)
+			(xy 76.2 71.12) (xy 88.9 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "08dea85d-b145-4a6a-a7e2-952f525ca3b5")
+		(uuid "03f441f2-a3e4-4022-8db4-96c7d78209ac")
 	)
 	(wire
 		(pts
-			(xy 139.7 121.92) (xy 152.4 121.92)
+			(xy 127 147.32) (xy 139.7 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "09d84c3e-d8fd-456b-9b7a-56ed6fe0625a")
+		(uuid "0713de6f-e5c7-42c2-800c-aacd8c687955")
+	)
+	(wire
+		(pts
+			(xy 63.5 172.72) (xy 76.2 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a4af000-f19e-46f9-8430-f62339e17403")
+	)
+	(wire
+		(pts
+			(xy 114.3 147.32) (xy 127 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dc8fbc1-b5ce-4686-b4c2-ef81c0987f93")
 	)
 	(wire
 		(pts
@@ -697,13 +717,63 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 71.12) (xy 63.5 71.12)
+			(xy 114.3 121.92) (xy 127 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13eb499a-ec72-4c98-abe8-e9b4f7e6bd1d")
+		(uuid "1b5cec81-5161-41c2-9cf1-7c1129505001")
+	)
+	(wire
+		(pts
+			(xy 114.3 45.72) (xy 127 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2182d8e4-0e36-420e-ba3a-4ae193de7928")
+	)
+	(wire
+		(pts
+			(xy 38.1 172.72) (xy 50.8 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "227ff681-0e1b-4da0-92ba-ff91ea9a8c22")
+	)
+	(wire
+		(pts
+			(xy 50.8 45.72) (xy 63.5 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "248bd5e2-2a0a-463e-97bf-bce0c49b13d5")
+	)
+	(wire
+		(pts
+			(xy 101.6 45.72) (xy 114.3 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e8a00e-d739-4c25-b511-f35daf554774")
+	)
+	(wire
+		(pts
+			(xy 101.6 121.92) (xy 114.3 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2950b928-6c1a-4fde-be22-433e395f6d24")
 	)
 	(wire
 		(pts
@@ -713,47 +783,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "17cb9398-d084-4f5d-bf5a-aa2a66c343de")
-	)
-	(wire
-		(pts
-			(xy 165.1 71.12) (xy 177.8 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fa27730-0914-4b28-a8fb-fc01cfe6347f")
-	)
-	(wire
-		(pts
-			(xy 127 96.52) (xy 139.7 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20f38548-cd3a-4a3f-b31e-4fd52094221e")
-	)
-	(wire
-		(pts
-			(xy 127 147.32) (xy 139.7 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "246c0c7b-af11-4b24-9156-0237541390b6")
-	)
-	(wire
-		(pts
-			(xy 76.2 71.12) (xy 88.9 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28f00683-f6ee-400b-baf0-d8950fcc928c")
+		(uuid "2ee72a44-ef16-4b5b-b14c-4922d6316710")
 	)
 	(wire
 		(pts
@@ -763,47 +793,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "2956d45a-5d86-4d9c-b493-acb68ca21dc8")
+		(uuid "3bce2a35-4d86-4598-9669-86f4f7249bfe")
 	)
 	(wire
 		(pts
-			(xy 139.7 147.32) (xy 152.4 147.32)
+			(xy 127 45.72) (xy 139.7 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "29daebaf-e478-43d8-b63f-49b41e4f3eeb")
-	)
-	(wire
-		(pts
-			(xy 50.8 172.72) (xy 63.5 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "305d8cb3-dc55-44d7-b601-a2f3b30f4c7c")
-	)
-	(wire
-		(pts
-			(xy 38.1 121.92) (xy 50.8 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32dff3c4-0255-4d92-844f-c130a42dcd5a")
-	)
-	(wire
-		(pts
-			(xy 127 121.92) (xy 139.7 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cc9365b-bedb-4b66-a6ca-6e5c1f7faef5")
+		(uuid "3d72cd59-e6cd-4ac4-95f0-fac69f173725")
 	)
 	(wire
 		(pts
@@ -817,73 +817,93 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 96.52) (xy 88.9 96.52)
+			(xy 63.5 71.12) (xy 76.2 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44b63629-56fb-4352-bded-740c3276edb5")
+		(uuid "4b7d1334-9130-45cc-84b4-35ef9e7f6c14")
 	)
 	(wire
 		(pts
-			(xy 50.8 147.32) (xy 63.5 147.32)
+			(xy 152.4 121.92) (xy 165.1 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4528216a-87c9-48da-8f8a-7b8b1fbb7aa4")
+		(uuid "4e01c0dd-913d-424e-8aaa-a759d0de3110")
 	)
 	(wire
 		(pts
-			(xy 114.3 96.52) (xy 127 96.52)
+			(xy 63.5 45.72) (xy 76.2 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4b703dc2-b5fd-459a-a3c3-a55ef1a66896")
+		(uuid "5231281b-9918-4aa7-955c-0d119d85241b")
 	)
 	(wire
 		(pts
-			(xy 88.9 147.32) (xy 101.6 147.32)
+			(xy 114.3 71.12) (xy 127 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4ff42ac9-226b-4269-b192-0c1c2989b809")
+		(uuid "54a1b151-08f3-4509-b371-a8b818f3138a")
 	)
 	(wire
 		(pts
-			(xy 101.6 71.12) (xy 114.3 71.12)
+			(xy 88.9 96.52) (xy 101.6 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52d7b557-480a-447e-bad9-6d06f16010b5")
+		(uuid "55fc0e72-ad5e-4042-b7cb-35257ba9dc9b")
 	)
 	(wire
 		(pts
-			(xy 165.1 96.52) (xy 177.8 96.52)
+			(xy 127 96.52) (xy 139.7 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "534c3447-87f1-49ed-a5ba-4d816be4e0b1")
+		(uuid "596f34a2-15f0-4a9e-9d30-512563792673")
 	)
 	(wire
 		(pts
-			(xy 63.5 121.92) (xy 76.2 121.92)
+			(xy 38.1 147.32) (xy 50.8 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "589f72fe-1cc5-4d8d-a72e-3e48474426fd")
+		(uuid "59a84aa4-f560-4a7d-ae92-d4959561c960")
+	)
+	(wire
+		(pts
+			(xy 139.7 45.72) (xy 152.4 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59dac56e-e47f-4be2-b152-d28a763e9377")
+	)
+	(wire
+		(pts
+			(xy 76.2 121.92) (xy 88.9 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a65353b-5beb-4e18-9c68-75ce6867dce0")
 	)
 	(wire
 		(pts
@@ -897,23 +917,13 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 121.92) (xy 114.3 121.92)
+			(xy 165.1 71.12) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b856ee6-696f-4c49-820e-f84737781598")
-	)
-	(wire
-		(pts
-			(xy 127 71.12) (xy 139.7 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60030fee-a529-4c91-9a19-b53df1be4d94")
+		(uuid "620461f2-004e-41ee-ae00-e819b060a850")
 	)
 	(wire
 		(pts
@@ -927,33 +937,13 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 45.72) (xy 177.8 45.72)
+			(xy 50.8 71.12) (xy 63.5 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "62b94589-a564-4193-84d1-566616c74264")
-	)
-	(wire
-		(pts
-			(xy 152.4 71.12) (xy 165.1 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63b37474-d616-473d-bd40-71ba9eb8724c")
-	)
-	(wire
-		(pts
-			(xy 76.2 45.72) (xy 88.9 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bcc2cb0-ab0a-4c9f-b730-eae1a573a953")
+		(uuid "650f8f1f-bb37-4289-a61d-538c22202545")
 	)
 	(wire
 		(pts
@@ -967,13 +957,23 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 45.72) (xy 76.2 45.72)
+			(xy 76.2 45.72) (xy 88.9 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e40e3fa-1dd3-4bc0-b020-a2d706d0729c")
+		(uuid "6e6e612d-bf30-4015-bc03-942610b999ef")
+	)
+	(wire
+		(pts
+			(xy 139.7 121.92) (xy 152.4 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74634015-ea7f-42ab-8821-65d2d3d88b2e")
 	)
 	(wire
 		(pts
@@ -983,67 +983,47 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "72a372b1-27f2-439d-b962-f0ee4ea7b5a2")
+		(uuid "76b8c707-47b8-427b-9449-e3ffa171bcdc")
 	)
 	(wire
 		(pts
-			(xy 114.3 147.32) (xy 127 147.32)
+			(xy 38.1 121.92) (xy 50.8 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "75b39e5c-1000-49ce-8ea1-efe7f9577696")
+		(uuid "777955b3-b3a7-4a5d-a65b-a315b45e27c2")
 	)
 	(wire
 		(pts
-			(xy 76.2 121.92) (xy 88.9 121.92)
+			(xy 88.9 121.92) (xy 101.6 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76519407-959c-4220-9cdd-69dbaf73bf4b")
+		(uuid "7aeac981-b8aa-4b0a-9db8-9668bdfe4e31")
 	)
 	(wire
 		(pts
-			(xy 63.5 96.52) (xy 76.2 96.52)
+			(xy 76.2 172.72) (xy 88.9 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "77199177-4a25-49a3-96a9-3fb43379fb2d")
+		(uuid "7fbadc29-0726-4ccb-87a2-18864ccf4191")
 	)
 	(wire
 		(pts
-			(xy 50.8 96.52) (xy 63.5 96.52)
+			(xy 88.9 147.32) (xy 101.6 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "780fc748-0274-4df9-8e67-c67ea86da1ad")
-	)
-	(wire
-		(pts
-			(xy 50.8 121.92) (xy 63.5 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "787cdc1c-c891-47c3-99d8-27e6637b6b5a")
-	)
-	(wire
-		(pts
-			(xy 101.6 45.72) (xy 114.3 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f0f62d4-4394-432e-8e1a-de9cbb1545cd")
+		(uuid "818c9d02-54db-4c21-bd6f-5cca031b3612")
 	)
 	(wire
 		(pts
@@ -1057,133 +1037,13 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 71.12) (xy 76.2 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "873ead13-00ba-4ea0-8fc2-d4a185c2865d")
-	)
-	(wire
-		(pts
-			(xy 38.1 147.32) (xy 50.8 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88e2415e-a701-4d13-bf84-9f362acffee5")
-	)
-	(wire
-		(pts
-			(xy 114.3 45.72) (xy 127 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "898f591d-0058-4bef-ac5f-beba56f52f1f")
-	)
-	(wire
-		(pts
-			(xy 50.8 45.72) (xy 63.5 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bbbba25-7db8-4a6e-86d6-f087b9b461b9")
-	)
-	(wire
-		(pts
-			(xy 152.4 96.52) (xy 165.1 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eb90f59-1418-42df-92f2-d36440eb0f2d")
-	)
-	(wire
-		(pts
 			(xy 38.1 96.52) (xy 50.8 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "95791f83-a179-4140-b811-9b0b4c7a75d3")
-	)
-	(wire
-		(pts
-			(xy 88.9 172.72) (xy 101.6 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95ee61b7-13e4-4518-9a33-9e26b5698b5c")
-	)
-	(wire
-		(pts
-			(xy 76.2 172.72) (xy 88.9 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97f2ed01-eba3-48b0-9533-55fbd10acb96")
-	)
-	(wire
-		(pts
-			(xy 76.2 147.32) (xy 88.9 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9994ec7e-5933-49e0-822b-c892bc4222bb")
-	)
-	(wire
-		(pts
-			(xy 101.6 147.32) (xy 114.3 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d7e396c-4805-4422-ae6d-8dfb06fc9f4e")
-	)
-	(wire
-		(pts
-			(xy 88.9 121.92) (xy 101.6 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4b1fba0-4174-444e-8e3a-c20a6c4a3abf")
-	)
-	(wire
-		(pts
-			(xy 139.7 45.72) (xy 152.4 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa5ee961-9563-4c64-b5fc-87b850d96439")
-	)
-	(wire
-		(pts
-			(xy 114.3 71.12) (xy 127 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5365a93-4140-41f1-b7bf-4ba902eff34c")
+		(uuid "8d4c94d2-d22b-44fb-ae34-48450ca40802")
 	)
 	(wire
 		(pts
@@ -1193,117 +1053,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "c2686914-5ca1-4dd6-b80c-fa5a360cd3b6")
-	)
-	(wire
-		(pts
-			(xy 152.4 121.92) (xy 165.1 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccd905a8-4d1b-43d7-b8c1-3e523fd57114")
-	)
-	(wire
-		(pts
-			(xy 88.9 45.72) (xy 101.6 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf52c42f-657e-49bb-9964-5023a334e3f2")
-	)
-	(wire
-		(pts
-			(xy 165.1 121.92) (xy 177.8 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3379afe-686b-463e-8635-a84ccdd28b26")
-	)
-	(wire
-		(pts
-			(xy 127 45.72) (xy 139.7 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfa56f55-c4cd-458f-9e1a-d9b85758c7d4")
-	)
-	(wire
-		(pts
-			(xy 38.1 172.72) (xy 50.8 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e22254a5-9203-4baa-866f-b336588b355f")
-	)
-	(wire
-		(pts
-			(xy 114.3 121.92) (xy 127 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3c115c1-0f0f-499b-8ee5-ee405587b518")
-	)
-	(wire
-		(pts
-			(xy 63.5 172.72) (xy 76.2 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7e2019f-e1d2-4d98-bd8a-b6806437a204")
-	)
-	(wire
-		(pts
-			(xy 165.1 147.32) (xy 177.8 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee7c0ae8-7837-4480-be52-53a004eb3cd2")
-	)
-	(wire
-		(pts
-			(xy 88.9 96.52) (xy 101.6 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef428a8a-83bd-4a2d-b765-fe38ca5dc9cd")
-	)
-	(wire
-		(pts
-			(xy 38.1 71.12) (xy 50.8 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1aa9a3f-0d74-4e8d-819d-1a9d3a9052d8")
-	)
-	(wire
-		(pts
-			(xy 152.4 45.72) (xy 165.1 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1f06ec8-431e-479d-8f2a-21e6290f1764")
+		(uuid "8f834106-040a-4bb5-b27f-e18956b49ac4")
 	)
 	(wire
 		(pts
@@ -1313,7 +1063,257 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "f5ff368e-e38e-4eba-95da-5290d4eea1c3")
+		(uuid "92367ef6-fd6c-424d-ab7c-4a5f0e967dbc")
+	)
+	(wire
+		(pts
+			(xy 88.9 45.72) (xy 101.6 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93075708-f84e-44df-a07b-9e5b302a5e80")
+	)
+	(wire
+		(pts
+			(xy 152.4 45.72) (xy 165.1 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "977d2ff6-268f-46e5-b8aa-09af079e31d7")
+	)
+	(wire
+		(pts
+			(xy 50.8 147.32) (xy 63.5 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d236fe5-5cc7-4dc6-9ddc-c4e4cf28db07")
+	)
+	(wire
+		(pts
+			(xy 76.2 96.52) (xy 88.9 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a269efce-4c1e-498f-a6b9-d820a6ec77f4")
+	)
+	(wire
+		(pts
+			(xy 63.5 96.52) (xy 76.2 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2d6900c-008d-47a2-b36c-0fa307735bfe")
+	)
+	(wire
+		(pts
+			(xy 139.7 147.32) (xy 152.4 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4ddb0ee-6f83-4b00-9c8b-5795948697af")
+	)
+	(wire
+		(pts
+			(xy 88.9 172.72) (xy 101.6 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a72a2e8e-a86c-428e-9735-df2d64ec6059")
+	)
+	(wire
+		(pts
+			(xy 63.5 121.92) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b64a808b-c360-4259-9bac-a358f9b92a14")
+	)
+	(wire
+		(pts
+			(xy 127 121.92) (xy 139.7 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7aa37b5-e364-4f62-876f-b55827878924")
+	)
+	(wire
+		(pts
+			(xy 114.3 96.52) (xy 127 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09f37dc-68ab-4111-8d86-f0f58993ef45")
+	)
+	(wire
+		(pts
+			(xy 152.4 96.52) (xy 165.1 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7dbd1c1-dc93-4c26-8219-4418dc6359c8")
+	)
+	(wire
+		(pts
+			(xy 76.2 147.32) (xy 88.9 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d333bb40-2c09-491b-b1db-1fe9a39e622c")
+	)
+	(wire
+		(pts
+			(xy 165.1 96.52) (xy 177.8 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4cfd0cf-1f34-49e4-ab3b-c96afaf29776")
+	)
+	(wire
+		(pts
+			(xy 101.6 71.12) (xy 114.3 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7d597a3-9471-49ec-83e2-f50ded00d96f")
+	)
+	(wire
+		(pts
+			(xy 165.1 121.92) (xy 177.8 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db9928cc-7c0e-48e9-bfcc-d0c5d45ac9e8")
+	)
+	(wire
+		(pts
+			(xy 38.1 45.72) (xy 50.8 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e824105d-16ed-4edf-b911-6d31aa5f3d45")
+	)
+	(wire
+		(pts
+			(xy 165.1 147.32) (xy 177.8 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e91fbba3-569a-4d27-ab0f-83b380850741")
+	)
+	(wire
+		(pts
+			(xy 127 71.12) (xy 139.7 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eafe2be8-b9c4-42f9-99db-6b4e151910ee")
+	)
+	(wire
+		(pts
+			(xy 152.4 71.12) (xy 165.1 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee166d61-3189-49aa-a32e-4364065cb78b")
+	)
+	(wire
+		(pts
+			(xy 88.9 71.12) (xy 101.6 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0183f31-8c23-43be-a482-2cdbfbb8f212")
+	)
+	(wire
+		(pts
+			(xy 165.1 45.72) (xy 177.8 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f23db4d3-ea5a-40db-bbb7-3be169bf4de2")
+	)
+	(wire
+		(pts
+			(xy 101.6 147.32) (xy 114.3 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7034aff-cee8-4448-b747-e78c32e7196a")
+	)
+	(wire
+		(pts
+			(xy 50.8 172.72) (xy 63.5 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb3b4940-029b-4e45-85e8-dbc70e5ddde2")
+	)
+	(wire
+		(pts
+			(xy 50.8 96.52) (xy 63.5 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb6d61f2-3ca5-4542-9217-20a00ef45dbe")
+	)
+	(wire
+		(pts
+			(xy 38.1 71.12) (xy 50.8 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe213389-3c8e-4981-a50f-4fa1468796bd")
 	)
 	(hierarchical_label "SEGMENT_25"
 		(shape input)
@@ -2109,7 +2109,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 177.8 67.31 90)
+		(at 177.8 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2118,21 +2118,21 @@
 		(fields_autoplaced yes)
 		(uuid "05b0685e-d823-473c-a9e5-f6fb85e68f29")
 		(property "Reference" "D24"
-			(at 181.61 67.6274 90)
+			(at 180.34 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 181.61 70.1674 90)
+			(at 180.34 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2188,7 +2188,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 118.11 90)
+		(at 63.5 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2197,21 +2197,21 @@
 		(fields_autoplaced yes)
 		(uuid "06c4c65a-1cb1-4acd-9ae1-7ad20a6f5b13")
 		(property "Reference" "D39"
-			(at 67.31 118.4274 90)
+			(at 66.04 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 120.9674 90)
+			(at 66.04 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2267,7 +2267,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 67.31 90)
+		(at 101.6 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2276,21 +2276,21 @@
 		(fields_autoplaced yes)
 		(uuid "07b35ad0-629d-4e88-82ca-c53c40407688")
 		(property "Reference" "D18"
-			(at 105.41 67.6274 90)
+			(at 104.14 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 70.1674 90)
+			(at 104.14 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2346,7 +2346,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 127 143.51 90)
+		(at 127 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2355,21 +2355,21 @@
 		(fields_autoplaced yes)
 		(uuid "0c41119a-3144-4cb7-a050-d56b1fb3d219")
 		(property "Reference" "D56"
-			(at 130.81 143.8274 90)
+			(at 129.54 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 130.81 146.3674 90)
+			(at 129.54 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2425,7 +2425,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 92.71 90)
+		(at 38.1 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2434,21 +2434,21 @@
 		(fields_autoplaced yes)
 		(uuid "0d2a12e5-b131-46c4-b747-7519d34fd278")
 		(property "Reference" "D25"
-			(at 41.91 93.0274 90)
+			(at 40.64 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 95.5674 90)
+			(at 40.64 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2504,7 +2504,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 118.11 90)
+		(at 76.2 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2513,21 +2513,21 @@
 		(fields_autoplaced yes)
 		(uuid "0d627e02-98de-4258-b92c-0dbc08ac98a3")
 		(property "Reference" "D40"
-			(at 80.01 118.4274 90)
+			(at 78.74 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 120.9674 90)
+			(at 78.74 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2583,7 +2583,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 41.91 90)
+		(at 63.5 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2592,21 +2592,21 @@
 		(fields_autoplaced yes)
 		(uuid "177cee36-573b-4780-94c1-711177efad12")
 		(property "Reference" "D3"
-			(at 67.31 42.2274 90)
+			(at 66.04 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 44.7674 90)
+			(at 66.04 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2662,7 +2662,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 41.91 90)
+		(at 50.8 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2671,21 +2671,21 @@
 		(fields_autoplaced yes)
 		(uuid "1bf13e50-0363-49aa-b424-afd9a58ee595")
 		(property "Reference" "D2"
-			(at 54.61 42.2274 90)
+			(at 53.34 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 44.7674 90)
+			(at 53.34 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2741,7 +2741,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 41.91 90)
+		(at 88.9 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2750,21 +2750,21 @@
 		(fields_autoplaced yes)
 		(uuid "25164367-c888-4ec3-9aa6-8e2334d14426")
 		(property "Reference" "D5"
-			(at 92.71 42.2274 90)
+			(at 91.44 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 44.7674 90)
+			(at 91.44 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2820,7 +2820,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 168.91 90)
+		(at 63.5 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2829,21 +2829,21 @@
 		(fields_autoplaced yes)
 		(uuid "26df3d59-3da9-427f-8b2a-4dd364b4e675")
 		(property "Reference" "D63"
-			(at 67.31 169.2274 90)
+			(at 66.04 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 171.7674 90)
+			(at 66.04 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2899,7 +2899,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 67.31 90)
+		(at 139.7 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2908,21 +2908,21 @@
 		(fields_autoplaced yes)
 		(uuid "2da5e4f1-dc24-42fc-af8b-122cc457996c")
 		(property "Reference" "D21"
-			(at 143.51 67.6274 90)
+			(at 142.24 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 143.51 70.1674 90)
+			(at 142.24 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -2978,7 +2978,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 143.51 90)
+		(at 50.8 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2987,21 +2987,21 @@
 		(fields_autoplaced yes)
 		(uuid "302530f1-a0ad-4d8c-8a36-766d92514dc2")
 		(property "Reference" "D50"
-			(at 54.61 143.8274 90)
+			(at 53.34 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 146.3674 90)
+			(at 53.34 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3057,7 +3057,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 67.31 90)
+		(at 165.1 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3066,21 +3066,21 @@
 		(fields_autoplaced yes)
 		(uuid "3462ea84-cbc9-4087-95ba-4f319e249b52")
 		(property "Reference" "D23"
-			(at 168.91 67.6274 90)
+			(at 167.64 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 70.1674 90)
+			(at 167.64 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3136,7 +3136,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 177.8 92.71 90)
+		(at 177.8 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3145,21 +3145,21 @@
 		(fields_autoplaced yes)
 		(uuid "360930a4-1dfd-48ae-b614-8cc8cad12dd8")
 		(property "Reference" "D36"
-			(at 181.61 93.0274 90)
+			(at 180.34 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 181.61 95.5674 90)
+			(at 180.34 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3215,7 +3215,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 41.91 90)
+		(at 139.7 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3224,21 +3224,21 @@
 		(fields_autoplaced yes)
 		(uuid "391d7b1f-cce6-43b4-9def-e3f269c231ba")
 		(property "Reference" "D9"
-			(at 143.51 42.2274 90)
+			(at 142.24 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 143.51 44.7674 90)
+			(at 142.24 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3360,7 +3360,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 67.31 90)
+		(at 76.2 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3369,21 +3369,21 @@
 		(fields_autoplaced yes)
 		(uuid "3a6de549-6d0e-4d11-bf92-875823178eda")
 		(property "Reference" "D16"
-			(at 80.01 67.6274 90)
+			(at 78.74 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 70.1674 90)
+			(at 78.74 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3439,7 +3439,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 152.4 92.71 90)
+		(at 152.4 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3448,21 +3448,21 @@
 		(fields_autoplaced yes)
 		(uuid "3bf67c10-8630-4a51-b6f0-3573e7212070")
 		(property "Reference" "D34"
-			(at 156.21 93.0274 90)
+			(at 154.94 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 156.21 95.5674 90)
+			(at 154.94 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3518,7 +3518,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 92.71 90)
+		(at 101.6 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3527,21 +3527,21 @@
 		(fields_autoplaced yes)
 		(uuid "449da9f9-9002-48a7-a5c3-3dec08bf42f2")
 		(property "Reference" "D30"
-			(at 105.41 93.0274 90)
+			(at 104.14 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 95.5674 90)
+			(at 104.14 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3597,7 +3597,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 41.91 90)
+		(at 38.1 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3606,21 +3606,21 @@
 		(fields_autoplaced yes)
 		(uuid "46037add-fa9a-49a5-aa9e-b7a148d3714b")
 		(property "Reference" "D1"
-			(at 41.91 42.2274 90)
+			(at 40.64 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 44.7674 90)
+			(at 40.64 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3676,7 +3676,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 92.71 90)
+		(at 88.9 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3685,21 +3685,21 @@
 		(fields_autoplaced yes)
 		(uuid "4d30492c-c9ae-41e4-b4cb-bb144ecc10a5")
 		(property "Reference" "D29"
-			(at 92.71 93.0274 90)
+			(at 91.44 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 95.5674 90)
+			(at 91.44 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3755,7 +3755,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 67.31 90)
+		(at 114.3 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3764,21 +3764,21 @@
 		(fields_autoplaced yes)
 		(uuid "50b889aa-e6eb-4131-9e28-831445f340b4")
 		(property "Reference" "D19"
-			(at 118.11 67.6274 90)
+			(at 116.84 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 70.1674 90)
+			(at 116.84 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3834,7 +3834,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 152.4 67.31 90)
+		(at 152.4 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3843,21 +3843,21 @@
 		(fields_autoplaced yes)
 		(uuid "539b6372-3edf-4135-b623-aa0c5ce84dad")
 		(property "Reference" "D22"
-			(at 156.21 67.6274 90)
+			(at 154.94 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 156.21 70.1674 90)
+			(at 154.94 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3913,7 +3913,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 92.71 90)
+		(at 165.1 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3922,21 +3922,21 @@
 		(fields_autoplaced yes)
 		(uuid "5b937a27-2c15-46f7-a857-8bffe0d4fda1")
 		(property "Reference" "D35"
-			(at 168.91 93.0274 90)
+			(at 167.64 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 95.5674 90)
+			(at 167.64 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -3992,7 +3992,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 152.4 41.91 90)
+		(at 152.4 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4001,21 +4001,21 @@
 		(fields_autoplaced yes)
 		(uuid "628bc1b4-9866-42e4-9886-c5762dfcb8f5")
 		(property "Reference" "D10"
-			(at 156.21 42.2274 90)
+			(at 154.94 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 156.21 44.7674 90)
+			(at 154.94 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4071,7 +4071,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 118.11 90)
+		(at 38.1 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4080,21 +4080,21 @@
 		(fields_autoplaced yes)
 		(uuid "642e0efa-3831-4150-86b7-978fc6df3a88")
 		(property "Reference" "D37"
-			(at 41.91 118.4274 90)
+			(at 40.64 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 120.9674 90)
+			(at 40.64 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4150,7 +4150,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 92.71 90)
+		(at 50.8 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4159,21 +4159,21 @@
 		(fields_autoplaced yes)
 		(uuid "647aea55-bd69-40d9-bd10-88b63e31da1e")
 		(property "Reference" "D26"
-			(at 54.61 93.0274 90)
+			(at 53.34 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 95.5674 90)
+			(at 53.34 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4229,7 +4229,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 143.51 90)
+		(at 76.2 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4238,21 +4238,21 @@
 		(fields_autoplaced yes)
 		(uuid "6768612f-0a26-43ff-9b5c-d2b916a23881")
 		(property "Reference" "D52"
-			(at 80.01 143.8274 90)
+			(at 78.74 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 146.3674 90)
+			(at 78.74 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4374,7 +4374,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 92.71 90)
+		(at 63.5 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4383,21 +4383,21 @@
 		(fields_autoplaced yes)
 		(uuid "6aee4521-48ee-4c7c-a6ff-44142d263d1b")
 		(property "Reference" "D27"
-			(at 67.31 93.0274 90)
+			(at 66.04 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 95.5674 90)
+			(at 66.04 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4453,7 +4453,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 177.8 143.51 90)
+		(at 177.8 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4462,21 +4462,21 @@
 		(fields_autoplaced yes)
 		(uuid "700e2717-82d1-453b-aa40-130411355f9a")
 		(property "Reference" "D60"
-			(at 181.61 143.8274 90)
+			(at 180.34 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 181.61 146.3674 90)
+			(at 180.34 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4532,7 +4532,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 118.11 90)
+		(at 50.8 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4541,21 +4541,21 @@
 		(fields_autoplaced yes)
 		(uuid "71944a29-e506-4bd7-aba3-c976b8aa3b52")
 		(property "Reference" "D38"
-			(at 54.61 118.4274 90)
+			(at 53.34 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 120.9674 90)
+			(at 53.34 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4611,7 +4611,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 92.71 90)
+		(at 76.2 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4620,21 +4620,21 @@
 		(fields_autoplaced yes)
 		(uuid "73e0108d-b976-4c6c-a29a-f11c5ae95860")
 		(property "Reference" "D28"
-			(at 80.01 93.0274 90)
+			(at 78.74 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 95.5674 90)
+			(at 78.74 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4690,7 +4690,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 168.91 90)
+		(at 76.2 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4699,21 +4699,21 @@
 		(fields_autoplaced yes)
 		(uuid "74726ecd-c57a-4c88-8efb-52224d358e24")
 		(property "Reference" "D64"
-			(at 80.01 169.2274 90)
+			(at 78.74 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 171.7674 90)
+			(at 78.74 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4769,7 +4769,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 152.4 118.11 90)
+		(at 152.4 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4778,21 +4778,21 @@
 		(fields_autoplaced yes)
 		(uuid "80d93be5-d7ab-40a6-94a0-3eebd79e0753")
 		(property "Reference" "D46"
-			(at 156.21 118.4274 90)
+			(at 154.94 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 156.21 120.9674 90)
+			(at 154.94 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4848,7 +4848,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 118.11 90)
+		(at 101.6 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4857,21 +4857,21 @@
 		(fields_autoplaced yes)
 		(uuid "828e26cb-fb8c-4ab3-8f1f-1cd5578ff61e")
 		(property "Reference" "D42"
-			(at 105.41 118.4274 90)
+			(at 104.14 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 120.9674 90)
+			(at 104.14 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -4927,7 +4927,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 177.8 118.11 90)
+		(at 177.8 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4936,21 +4936,21 @@
 		(fields_autoplaced yes)
 		(uuid "84ffa7e5-b5a9-4655-b2dc-93801ac50d1e")
 		(property "Reference" "D48"
-			(at 181.61 118.4274 90)
+			(at 180.34 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 181.61 120.9674 90)
+			(at 180.34 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5006,7 +5006,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 177.8 41.91 90)
+		(at 177.8 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5015,21 +5015,21 @@
 		(fields_autoplaced yes)
 		(uuid "8614ff86-ba54-4b8e-9eff-1e372372a522")
 		(property "Reference" "D12"
-			(at 181.61 42.2274 90)
+			(at 180.34 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 181.61 44.7674 90)
+			(at 180.34 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5085,7 +5085,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 118.11 90)
+		(at 88.9 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5094,21 +5094,21 @@
 		(fields_autoplaced yes)
 		(uuid "86fe24cc-34d7-4ed7-a7df-f5195adaee3d")
 		(property "Reference" "D41"
-			(at 92.71 118.4274 90)
+			(at 91.44 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 120.9674 90)
+			(at 91.44 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5164,7 +5164,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 41.91 90)
+		(at 165.1 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5173,21 +5173,21 @@
 		(fields_autoplaced yes)
 		(uuid "87c166d4-4185-4fbc-939e-bc39275013a0")
 		(property "Reference" "D11"
-			(at 168.91 42.2274 90)
+			(at 167.64 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 44.7674 90)
+			(at 167.64 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5243,7 +5243,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 67.31 90)
+		(at 38.1 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5252,21 +5252,21 @@
 		(fields_autoplaced yes)
 		(uuid "899a5ae5-f19d-48ae-a289-3bfc1c5e279d")
 		(property "Reference" "D13"
-			(at 41.91 67.6274 90)
+			(at 40.64 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 70.1674 90)
+			(at 40.64 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5322,7 +5322,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 143.51 90)
+		(at 63.5 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5331,21 +5331,21 @@
 		(fields_autoplaced yes)
 		(uuid "9266c24b-2058-448d-aef2-ab87896d8cde")
 		(property "Reference" "D51"
-			(at 67.31 143.8274 90)
+			(at 66.04 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 146.3674 90)
+			(at 66.04 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5401,7 +5401,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 41.91 90)
+		(at 114.3 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5410,21 +5410,21 @@
 		(fields_autoplaced yes)
 		(uuid "93c20ad0-af39-4dbd-96c9-6082593eb296")
 		(property "Reference" "D7"
-			(at 118.11 42.2274 90)
+			(at 116.84 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 44.7674 90)
+			(at 116.84 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5480,7 +5480,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 92.71 90)
+		(at 139.7 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5489,21 +5489,21 @@
 		(fields_autoplaced yes)
 		(uuid "949e57a5-13fb-451f-9005-349cc0771265")
 		(property "Reference" "D33"
-			(at 143.51 93.0274 90)
+			(at 142.24 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 143.51 95.5674 90)
+			(at 142.24 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5559,7 +5559,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 118.11 90)
+		(at 165.1 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5568,21 +5568,21 @@
 		(fields_autoplaced yes)
 		(uuid "94dcac41-8cd4-4f42-83ca-1c3cedb2e81d")
 		(property "Reference" "D47"
-			(at 168.91 118.4274 90)
+			(at 167.64 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 120.9674 90)
+			(at 167.64 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5638,7 +5638,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 127 41.91 90)
+		(at 127 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5647,21 +5647,21 @@
 		(fields_autoplaced yes)
 		(uuid "9513c86d-8490-4a9f-843c-c7dadae8313f")
 		(property "Reference" "D8"
-			(at 130.81 42.2274 90)
+			(at 129.54 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 130.81 44.7674 90)
+			(at 129.54 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5717,7 +5717,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 118.11 90)
+		(at 114.3 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5726,21 +5726,21 @@
 		(fields_autoplaced yes)
 		(uuid "96076a04-e7ae-46e4-a1c0-7308950b94c6")
 		(property "Reference" "D43"
-			(at 118.11 118.4274 90)
+			(at 116.84 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 120.9674 90)
+			(at 116.84 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5796,7 +5796,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 118.11 90)
+		(at 139.7 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5805,21 +5805,21 @@
 		(fields_autoplaced yes)
 		(uuid "9abf035a-3864-446e-b493-2abe42c4ce49")
 		(property "Reference" "D45"
-			(at 143.51 118.4274 90)
+			(at 142.24 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 143.51 120.9674 90)
+			(at 142.24 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5875,7 +5875,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 127 67.31 90)
+		(at 127 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5884,21 +5884,21 @@
 		(fields_autoplaced yes)
 		(uuid "9be25ae7-8631-448b-9a93-d997928c5472")
 		(property "Reference" "D20"
-			(at 130.81 67.6274 90)
+			(at 129.54 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 130.81 70.1674 90)
+			(at 129.54 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -5954,7 +5954,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 168.91 90)
+		(at 38.1 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5963,21 +5963,21 @@
 		(fields_autoplaced yes)
 		(uuid "9fc94108-3d6b-4f9c-9aea-1fea056640ef")
 		(property "Reference" "D61"
-			(at 41.91 169.2274 90)
+			(at 40.64 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 171.7674 90)
+			(at 40.64 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6099,7 +6099,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 127 118.11 90)
+		(at 127 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6108,21 +6108,21 @@
 		(fields_autoplaced yes)
 		(uuid "a3aa67b1-d59a-4080-a1f1-fa01dda79711")
 		(property "Reference" "D44"
-			(at 130.81 118.4274 90)
+			(at 129.54 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 130.81 120.9674 90)
+			(at 129.54 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6178,7 +6178,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 143.51 90)
+		(at 101.6 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6187,21 +6187,21 @@
 		(fields_autoplaced yes)
 		(uuid "a52f5f7a-de59-40b7-a32f-f0b5ba88ec81")
 		(property "Reference" "D54"
-			(at 105.41 143.8274 90)
+			(at 104.14 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 146.3674 90)
+			(at 104.14 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6257,7 +6257,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 168.91 90)
+		(at 101.6 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6266,21 +6266,21 @@
 		(fields_autoplaced yes)
 		(uuid "a7cc43f8-67bf-41a2-821e-ec5fc6410451")
 		(property "Reference" "D66"
-			(at 105.41 169.2274 90)
+			(at 104.14 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 171.7674 90)
+			(at 104.14 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6336,7 +6336,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 168.91 90)
+		(at 88.9 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6345,21 +6345,21 @@
 		(fields_autoplaced yes)
 		(uuid "b3289498-6d8e-4f7c-ac79-811d9ee4e776")
 		(property "Reference" "D65"
-			(at 92.71 169.2274 90)
+			(at 91.44 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 171.7674 90)
+			(at 91.44 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6415,7 +6415,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 76.2 41.91 90)
+		(at 76.2 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6424,21 +6424,21 @@
 		(fields_autoplaced yes)
 		(uuid "bde44efb-3e5d-49af-a43c-60dd3d20169a")
 		(property "Reference" "D4"
-			(at 80.01 42.2274 90)
+			(at 78.74 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 80.01 44.7674 90)
+			(at 78.74 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6494,7 +6494,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 67.31 90)
+		(at 88.9 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6503,21 +6503,21 @@
 		(fields_autoplaced yes)
 		(uuid "c9543eeb-aef0-433d-b2be-7d8c2800e4de")
 		(property "Reference" "D17"
-			(at 92.71 67.6274 90)
+			(at 91.44 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 70.1674 90)
+			(at 91.44 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6639,7 +6639,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 63.5 67.31 90)
+		(at 63.5 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6648,21 +6648,21 @@
 		(fields_autoplaced yes)
 		(uuid "d72e036c-703a-4ac8-b232-213c981266e5")
 		(property "Reference" "D15"
-			(at 67.31 67.6274 90)
+			(at 66.04 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 67.31 70.1674 90)
+			(at 66.04 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6784,7 +6784,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 143.51 90)
+		(at 165.1 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6793,21 +6793,21 @@
 		(fields_autoplaced yes)
 		(uuid "d99b120f-c5de-452f-85fd-00a0d5f210b6")
 		(property "Reference" "D59"
-			(at 168.91 143.8274 90)
+			(at 167.64 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 168.91 146.3674 90)
+			(at 167.64 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6863,7 +6863,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 152.4 143.51 90)
+		(at 152.4 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6872,21 +6872,21 @@
 		(fields_autoplaced yes)
 		(uuid "de542c4e-fd83-47d7-b5e0-0ad60421ac14")
 		(property "Reference" "D58"
-			(at 156.21 143.8274 90)
+			(at 154.94 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 156.21 146.3674 90)
+			(at 154.94 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -6942,7 +6942,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 92.71 90)
+		(at 114.3 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6951,21 +6951,21 @@
 		(fields_autoplaced yes)
 		(uuid "e2249fd6-94e8-4f14-aa57-7fedff0a3927")
 		(property "Reference" "D31"
-			(at 118.11 93.0274 90)
+			(at 116.84 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 95.5674 90)
+			(at 116.84 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7021,7 +7021,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 67.31 90)
+		(at 50.8 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7030,21 +7030,21 @@
 		(fields_autoplaced yes)
 		(uuid "e48a42ae-ac1f-40e5-af3b-95aa2ab8f081")
 		(property "Reference" "D14"
-			(at 54.61 67.6274 90)
+			(at 53.34 64.4524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 70.1674 90)
+			(at 53.34 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7166,7 +7166,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 88.9 143.51 90)
+		(at 88.9 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7175,21 +7175,21 @@
 		(fields_autoplaced yes)
 		(uuid "f41fb4ca-7bf1-4efe-93dd-ba25e5c975ae")
 		(property "Reference" "D53"
-			(at 92.71 143.8274 90)
+			(at 91.44 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 92.71 146.3674 90)
+			(at 91.44 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7245,7 +7245,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 114.3 143.51 90)
+		(at 114.3 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7254,21 +7254,21 @@
 		(fields_autoplaced yes)
 		(uuid "f5ca823a-23da-40fc-9ca9-d7a89b23d91e")
 		(property "Reference" "D55"
-			(at 118.11 143.8274 90)
+			(at 116.84 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 118.11 146.3674 90)
+			(at 116.84 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7324,7 +7324,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 143.51 90)
+		(at 139.7 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7333,21 +7333,21 @@
 		(fields_autoplaced yes)
 		(uuid "f9b38854-3530-4f38-a35d-b3b4eaafe5d2")
 		(property "Reference" "D57"
-			(at 143.51 143.8274 90)
+			(at 142.24 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 143.51 146.3674 90)
+			(at 142.24 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7403,7 +7403,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 50.8 168.91 90)
+		(at 50.8 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7412,21 +7412,21 @@
 		(fields_autoplaced yes)
 		(uuid "f9d0ffdc-218f-4060-841c-134591da372b")
 		(property "Reference" "D62"
-			(at 54.61 169.2274 90)
+			(at 53.34 166.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 54.61 171.7674 90)
+			(at 53.34 168.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7482,7 +7482,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 127 92.71 90)
+		(at 127 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7491,21 +7491,21 @@
 		(fields_autoplaced yes)
 		(uuid "fa849720-30ca-4566-991a-8cfe73b761f5")
 		(property "Reference" "D32"
-			(at 130.81 93.0274 90)
+			(at 129.54 89.8524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 130.81 95.5674 90)
+			(at 129.54 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7561,7 +7561,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 38.1 143.51 90)
+		(at 38.1 143.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7570,21 +7570,21 @@
 		(fields_autoplaced yes)
 		(uuid "fe8a9a75-9ac1-493d-b869-e1f57645a7e8")
 		(property "Reference" "D49"
-			(at 41.91 143.8274 90)
+			(at 40.64 140.6524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 41.91 146.3674 90)
+			(at 40.64 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
@@ -7640,7 +7640,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 101.6 41.91 90)
+		(at 101.6 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7649,21 +7649,21 @@
 		(fields_autoplaced yes)
 		(uuid "ff20e4a9-48ae-443b-83ef-1062a67c287b")
 		(property "Reference" "D6"
-			(at 105.41 42.2274 90)
+			(at 104.14 39.0524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 44.7674 90)
+			(at 104.14 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "hexpansion:LED_0603_1608Metric_NoSilkscreen"
