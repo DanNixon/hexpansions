@@ -2,6 +2,12 @@
 
 That fucking rabbit.
 
+## Pinout
+
+- LED red: LS E
+- LED green: LS C
+- LED blue: LS D
+
 ## Parts
 
 - [ZD24C64A EEPROM](https://www.lcsc.com/product-detail/EEPROM_Zetta-ZD24C64A-XGMT_C2875852.html)
