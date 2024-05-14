@@ -4,6 +4,8 @@ The [Maker Space](https://www.makerspace.org.uk/) M logo, surrounded by red LEDs
 
 ## Pinout
 
+Segments start at 1, with 1 being the bottom of the valley at the top of the M with subsequent segments advancing in clockwise order from there.
+
 |M segment|Expander|Port|Pin|
 |---------|--------|----|---|
 |        1|       0|   0|  7|
