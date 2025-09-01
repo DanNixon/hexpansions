@@ -4,9 +4,9 @@ That fucking rabbit.
 
 ## Pinout
 
-- LED red: LS E
-- LED green: LS C
-- LED blue: LS D
+- LED red: LS E/5
+- LED green: LS C/3
+- LED blue: LS D/4
 
 ## Parts
 

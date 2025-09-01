@@ -4,9 +4,9 @@ The magnificant piece of artwork created by Dilbert in [S2 E3 of the animated se
 
 ## Pinout
 
-- LED red: LS E
-- LED green: LS D
-- LED blue: LS C
+- LED red: LS E/5
+- LED green: LS D/4
+- LED blue: LS C/3
 
 ## Parts
 
